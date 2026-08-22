@@ -1,0 +1,16 @@
+{
+  "name": "employee-management",
+  "version": "1.0.0",
+  "description": "Employee Management REST API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "4.21.2",
+    "mongoose": "5.10.2"
+  }
+}
